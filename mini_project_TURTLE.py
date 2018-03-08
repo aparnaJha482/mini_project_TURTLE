@@ -9,3 +9,4 @@ def draw_square(romeo):
 
 def draw_graphic()
     brad = turtle.Turtle()
+    window = turtle.Screen()
