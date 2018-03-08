@@ -10,3 +10,6 @@ def draw_square(romeo):
 def draw_graphic()
     brad = turtle.Turtle()
     window = turtle.Screen()
+    window.bgcolor("pink")
+    brad.color("green")
+    brad.shape("turtle")
