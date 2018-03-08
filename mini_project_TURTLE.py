@@ -7,4 +7,5 @@ def draw_square(romeo):
         romeo.right(90)
 
 
-
+def draw_graphic()
+    brad = turtle.Turtle()
