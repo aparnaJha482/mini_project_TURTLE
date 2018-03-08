@@ -33,3 +33,4 @@ def draw_graphic():
 
     window.exitonclick()
 
+draw_graphic()
