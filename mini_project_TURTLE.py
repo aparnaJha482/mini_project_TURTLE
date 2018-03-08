@@ -13,3 +13,6 @@ def draw_graphic()
     window.bgcolor("pink")
     brad.color("green")
     brad.shape("turtle")
+    for i in range(1,72):
+        draw_square(brad)
+        brad.right(5)
